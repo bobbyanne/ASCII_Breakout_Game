@@ -1,0 +1,6 @@
+c:\users\java\documents\visual studio 2015\Projects\ASCII_Breakout\ASCII_Breakout\bin\Debug\ASCII_Breakout.exe.config
+c:\users\java\documents\visual studio 2015\Projects\ASCII_Breakout\ASCII_Breakout\obj\Debug\ASCII_Breakout.csprojResolveAssemblyReference.cache
+c:\users\java\documents\visual studio 2015\Projects\ASCII_Breakout\ASCII_Breakout\bin\Debug\ASCII_Breakout.exe
+c:\users\java\documents\visual studio 2015\Projects\ASCII_Breakout\ASCII_Breakout\bin\Debug\ASCII_Breakout.pdb
+c:\users\java\documents\visual studio 2015\Projects\ASCII_Breakout\ASCII_Breakout\obj\Debug\ASCII_Breakout.exe
+c:\users\java\documents\visual studio 2015\Projects\ASCII_Breakout\ASCII_Breakout\obj\Debug\ASCII_Breakout.pdb
